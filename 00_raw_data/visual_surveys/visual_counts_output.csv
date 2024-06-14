@@ -1,0 +1,9 @@
+Location_code,Surface_area_m2,length_video,Pa_camera_maxN,Pa_snorkle_average,Pa_density_snorkel,Bp_camera_maxN,Bp_snorkle_average,Bp_snorkle_density,Sc_camera_maxN,Sc_snorkle_average,Sc_snorkle_density,Md_camera_maxN,Md_snorkle_average,Md_snorkle_density,Mp_camera_maxN,Mp_snorkle_average,Mp_snorkle_density,G_camera_maxN,G_snorkle_average,G_snorkle_density,TS_camera_maxN,TS_snorkle_average,TS_snorkle_density,Am_camera_maxN,Am_snorkle_average,Am_snorkle_density,Cg_camera_maxN,Cg_snorkle_average,Cg_snorkle_density
+B8,40.56,0:30:00,8,14,0.35,0,0,0.00,3,5,0.12,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0,0,0,0
+B9,33.32,0:30:00,23,27,0.81,0,0,0.00,2,0.5,0.02,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0,0,0,0
+B14,151.09,0:30:00,31,138,0.91,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0,0,0,0
+B17,89.22,0:29:14,18,132.5,1.49,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0,0,0,0
+BK17,594.048,NA,7,268,0.45,0,0,0.00,1,11.5,0.02,0,0,0.00,0,0,0.00,1,0.5,0.00,1,1.5,0.00,0,0,0,0,0,0
+BK18,362,NA,55,245,0.68,2,14.5,0.04,5,111.5,0.31,0,0,0.00,0,0,0.00,2,36.5,0.10,6,17.5,0.05,0,0,0,0,0,0
+BK27,261.696,NA,11,252.5,0.96,3,18,0.07,7,43.5,0.17,0,0,0.00,0,0,0.00,6,10.5,0.04,1,17.5,0.07,0,0,0,0,0,0
+BK9,70.09,NA,21,149,2.13,0,0,0.00,3,4.5,0.06,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0.00,0,0,0,0,0,0

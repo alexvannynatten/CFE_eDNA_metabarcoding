@@ -1,0 +1,15 @@
+"Species","Primers","Efficiency"
+"Anguilla","mifish",100
+"Anguilla","Teleo",99.9
+"Clarias","mifish",99.9
+"Clarias","Teleo",99.9
+"Enteromius","mifish",100
+"Enteromius","Teleo",70.6
+"Glossogobius","mifish",100
+"Glossogobius","Teleo",79.4
+"Pseudobarbus","mifish",100
+"Pseudobarbus","Teleo",70.6
+"Sandelia","mifish",100
+"Sandelia","Teleo",99.9
+"Tilapia","mifish",100
+"Tilapia","Teleo",99.9

@@ -1,0 +1,14 @@
+# mitofish-all.fas file not included due to size (800 mb) and can be obtained from...
+https://mitofish.aori.u-tokyo.ac.jp
+
+# version information below
+
+Version:
+3.87
+Update:
+2023-03-08
+Complete mtDNA Data:
+3,563 species
+Complete + Partial Data:
+799,159 sequences
+42,615 species
